@@ -7,6 +7,12 @@
         "title": "Schéma Personnage Historique",
         "description": "Spécification du schéma des personnages historiques",
         "schema_url": "https://raw.githubusercontent.com/geoffreyaldebert/schema-personnage-historique/master/schema.json"
+      },
+      {
+        "name": "geoffreyaldebert/schema-lieu-historique",
+        "title": "Schéma Lieu Historique",
+        "description": "Spécification du schéma des lieux historiques",
+        "schema_url": "https://raw.githubusercontent.com/geoffreyaldebert/schema-lieu-historique/master/schema.json"
       }
     ]
   }
