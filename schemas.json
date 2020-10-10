@@ -1,0 +1,12 @@
+{
+    "$schema": "https://opendataschema.frama.io/catalog/schema-catalog.json",
+    "version": 1,
+    "schemas": [
+      {
+        "name": "geoffreyaldebert/schema-personnage-historique",
+        "title": "Schéma Personnage Historique",
+        "description": "Spécification du schéma des personnages historiques",
+        "schema_url": "https://raw.githubusercontent.com/geoffreyaldebert/schema-personnage-historique/master/schema.json"
+      }
+    ]
+  }
