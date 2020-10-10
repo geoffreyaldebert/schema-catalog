@@ -13,6 +13,12 @@
         "title": "Schéma Lieu Historique",
         "description": "Spécification du schéma des lieux historiques",
         "schema_url": "https://raw.githubusercontent.com/geoffreyaldebert/schema-lieu-historique/master/schema.json"
+      },
+      {
+        "name": "geoffreyaldebert/schema-evenement-historique",
+        "title": "Schéma Evenement Historique",
+        "description": "Spécification du schéma des événements historiques",
+        "schema_url": "https://raw.githubusercontent.com/geoffreyaldebert/schema-evenement-historique/master/schema.json"
       }
     ]
   }
